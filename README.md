@@ -1,0 +1,1 @@
+Terminal text-editor (tte) in C inspired by Kilo editor (https://viewsourcecode.org/snaptoken/kilo/).
